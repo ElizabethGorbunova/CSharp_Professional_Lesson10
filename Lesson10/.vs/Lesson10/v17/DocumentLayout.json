@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egorb\\source\\repos\\Education_CBS\\4. C#_Professional\\Lesson10\\CSharp_Professional_Lesson10\\Lesson10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F6C96F-979E-4236-ADE2-8163C44AB46B}|Task_additional\\Task_additional.csproj|c:\\users\\egorb\\source\\repos\\education_cbs\\4. c#_professional\\lesson10\\csharp_professional_lesson10\\lesson10\\task_additional\\dogderived.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F6C96F-979E-4236-ADE2-8163C44AB46B}|Task_additional\\Task_additional.csproj|solutionrelative:task_additional\\dogderived.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75B90A0-E15A-47FA-8506-8DB7B8982371}|Task2\\Task2.csproj|c:\\users\\egorb\\source\\repos\\education_cbs\\4. c#_professional\\lesson10\\csharp_professional_lesson10\\lesson10\\task2\\csvformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75B90A0-E15A-47FA-8506-8DB7B8982371}|Task2\\Task2.csproj|solutionrelative:task2\\csvformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75B90A0-E15A-47FA-8506-8DB7B8982371}|Task2\\Task2.csproj|c:\\users\\egorb\\source\\repos\\education_cbs\\4. c#_professional\\lesson10\\csharp_professional_lesson10\\lesson10\\task2\\filesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75B90A0-E15A-47FA-8506-8DB7B8982371}|Task2\\Task2.csproj|solutionrelative:task2\\filesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75B90A0-E15A-47FA-8506-8DB7B8982371}|Task2\\Task2.csproj|c:\\users\\egorb\\source\\repos\\education_cbs\\4. c#_professional\\lesson10\\csharp_professional_lesson10\\lesson10\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75B90A0-E15A-47FA-8506-8DB7B8982371}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F6C96F-979E-4236-ADE2-8163C44AB46B}|Task_additional\\Task_additional.csproj|c:\\users\\egorb\\source\\repos\\education_cbs\\4. c#_professional\\lesson10\\csharp_professional_lesson10\\lesson10\\task_additional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F6C96F-979E-4236-ADE2-8163C44AB46B}|Task_additional\\Task_additional.csproj|solutionrelative:task_additional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F6C96F-979E-4236-ADE2-8163C44AB46B}|Task_additional\\Task_additional.csproj|c:\\users\\egorb\\source\\repos\\education_cbs\\4. c#_professional\\lesson10\\csharp_professional_lesson10\\lesson10\\task_additional\\animalbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F6C96F-979E-4236-ADE2-8163C44AB46B}|Task_additional\\Task_additional.csproj|solutionrelative:task_additional\\animalbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F6C96F-979E-4236-ADE2-8163C44AB46B}|Task_additional\\Task_additional.csproj|c:\\users\\egorb\\source\\repos\\education_cbs\\4. c#_professional\\lesson10\\csharp_professional_lesson10\\lesson10\\task_additional\\fourleganimalderived.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F6C96F-979E-4236-ADE2-8163C44AB46B}|Task_additional\\Task_additional.csproj|solutionrelative:task_additional\\fourleganimalderived.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F6C96F-979E-4236-ADE2-8163C44AB46B}|Task_additional\\Task_additional.csproj|c:\\users\\egorb\\source\\repos\\education_cbs\\4. c#_professional\\lesson10\\csharp_professional_lesson10\\lesson10\\task_additional\\poodle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F6C96F-979E-4236-ADE2-8163C44AB46B}|Task_additional\\Task_additional.csproj|solutionrelative:task_additional\\poodle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75B90A0-E15A-47FA-8506-8DB7B8982371}|Task2\\Task2.csproj|c:\\users\\egorb\\source\\repos\\education_cbs\\4. c#_professional\\lesson10\\csharp_professional_lesson10\\lesson10\\task2\\wordformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75B90A0-E15A-47FA-8506-8DB7B8982371}|Task2\\Task2.csproj|solutionrelative:task2\\wordformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75B90A0-E15A-47FA-8506-8DB7B8982371}|Task2\\Task2.csproj|c:\\users\\egorb\\source\\repos\\education_cbs\\4. c#_professional\\lesson10\\csharp_professional_lesson10\\lesson10\\task2\\pdfformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75B90A0-E15A-47FA-8506-8DB7B8982371}|Task2\\Task2.csproj|solutionrelative:task2\\pdfformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D2249B-25F7-4D72-9329-2BA74E397F13}|Lesson10\\Lesson10.csproj|c:\\users\\egorb\\source\\repos\\education_cbs\\4. c#_professional\\lesson10\\csharp_professional_lesson10\\lesson10\\lesson10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D2249B-25F7-4D72-9329-2BA74E397F13}|Lesson10\\Lesson10.csproj|solutionrelative:lesson10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DogDerived.cs",
+              "DocumentMoniker": "C:\\Users\\egorb\\source\\repos\\Education_CBS\\4. C#_Professional\\Lesson10\\CSharp_Professional_Lesson10\\Lesson10\\Task_additional\\DogDerived.cs",
+              "RelativeDocumentMoniker": "Task_additional\\DogDerived.cs",
+              "ToolTip": "C:\\Users\\egorb\\source\\repos\\Education_CBS\\4. C#_Professional\\Lesson10\\CSharp_Professional_Lesson10\\Lesson10\\Task_additional\\DogDerived.cs",
+              "RelativeToolTip": "Task_additional\\DogDerived.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T18:54:38.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnimalBase.cs",
+              "DocumentMoniker": "C:\\Users\\egorb\\source\\repos\\Education_CBS\\4. C#_Professional\\Lesson10\\CSharp_Professional_Lesson10\\Lesson10\\Task_additional\\AnimalBase.cs",
+              "RelativeDocumentMoniker": "Task_additional\\AnimalBase.cs",
+              "ToolTip": "C:\\Users\\egorb\\source\\repos\\Education_CBS\\4. C#_Professional\\Lesson10\\CSharp_Professional_Lesson10\\Lesson10\\Task_additional\\AnimalBase.cs",
+              "RelativeToolTip": "Task_additional\\AnimalBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T12:21:57.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\egorb\\source\\repos\\Education_CBS\\4. C#_Professional\\Lesson10\\CSharp_Professional_Lesson10\\Lesson10\\Task_additional\\Program.cs",
+              "RelativeDocumentMoniker": "Task_additional\\Program.cs",
+              "ToolTip": "C:\\Users\\egorb\\source\\repos\\Education_CBS\\4. C#_Professional\\Lesson10\\CSharp_Professional_Lesson10\\Lesson10\\Task_additional\\Program.cs",
+              "RelativeToolTip": "Task_additional\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T12:11:14.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\egorb\\source\\repos\\Education_CBS\\4. C#_Professional\\Lesson10\\CSharp_Professional_Lesson10\\Lesson10\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "C:\\Users\\egorb\\source\\repos\\Education_CBS\\4. C#_Professional\\Lesson10\\CSharp_Professional_Lesson10\\Lesson10\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:05:22.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CSVFormat.cs",
+              "DocumentMoniker": "C:\\Users\\egorb\\source\\repos\\Education_CBS\\4. C#_Professional\\Lesson10\\CSharp_Professional_Lesson10\\Lesson10\\Task2\\CSVFormat.cs",
+              "RelativeDocumentMoniker": "Task2\\CSVFormat.cs",
+              "ToolTip": "C:\\Users\\egorb\\source\\repos\\Education_CBS\\4. C#_Professional\\Lesson10\\CSharp_Professional_Lesson10\\Lesson10\\Task2\\CSVFormat.cs",
+              "RelativeToolTip": "Task2\\CSVFormat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:19:03.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileSaver.cs",
+              "DocumentMoniker": "C:\\Users\\egorb\\source\\repos\\Education_CBS\\4. C#_Professional\\Lesson10\\CSharp_Professional_Lesson10\\Lesson10\\Task2\\FileSaver.cs",
+              "RelativeDocumentMoniker": "Task2\\FileSaver.cs",
+              "ToolTip": "C:\\Users\\egorb\\source\\repos\\Education_CBS\\4. C#_Professional\\Lesson10\\CSharp_Professional_Lesson10\\Lesson10\\Task2\\FileSaver.cs",
+              "RelativeToolTip": "Task2\\FileSaver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:18:28.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FourLegAnimalDerived.cs",
+              "DocumentMoniker": "C:\\Users\\egorb\\source\\repos\\Education_CBS\\4. C#_Professional\\Lesson10\\CSharp_Professional_Lesson10\\Lesson10\\Task_additional\\FourLegAnimalDerived.cs",
+              "RelativeDocumentMoniker": "Task_additional\\FourLegAnimalDerived.cs",
+              "ToolTip": "C:\\Users\\egorb\\source\\repos\\Education_CBS\\4. C#_Professional\\Lesson10\\CSharp_Professional_Lesson10\\Lesson10\\Task_additional\\FourLegAnimalDerived.cs",
+              "RelativeToolTip": "Task_additional\\FourLegAnimalDerived.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T12:22:15.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Poodle.cs",
+              "DocumentMoniker": "C:\\Users\\egorb\\source\\repos\\Education_CBS\\4. C#_Professional\\Lesson10\\CSharp_Professional_Lesson10\\Lesson10\\Task_additional\\Poodle.cs",
+              "RelativeDocumentMoniker": "Task_additional\\Poodle.cs",
+              "ToolTip": "C:\\Users\\egorb\\source\\repos\\Education_CBS\\4. C#_Professional\\Lesson10\\CSharp_Professional_Lesson10\\Lesson10\\Task_additional\\Poodle.cs",
+              "RelativeToolTip": "Task_additional\\Poodle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T18:55:33.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WordFormat.cs",
+              "DocumentMoniker": "C:\\Users\\egorb\\source\\repos\\Education_CBS\\4. C#_Professional\\Lesson10\\CSharp_Professional_Lesson10\\Lesson10\\Task2\\WordFormat.cs",
+              "RelativeDocumentMoniker": "Task2\\WordFormat.cs",
+              "ToolTip": "C:\\Users\\egorb\\source\\repos\\Education_CBS\\4. C#_Professional\\Lesson10\\CSharp_Professional_Lesson10\\Lesson10\\Task2\\WordFormat.cs",
+              "RelativeToolTip": "Task2\\WordFormat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:18:51.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PDFFormat.cs",
+              "DocumentMoniker": "C:\\Users\\egorb\\source\\repos\\Education_CBS\\4. C#_Professional\\Lesson10\\CSharp_Professional_Lesson10\\Lesson10\\Task2\\PDFFormat.cs",
+              "RelativeDocumentMoniker": "Task2\\PDFFormat.cs",
+              "ToolTip": "C:\\Users\\egorb\\source\\repos\\Education_CBS\\4. C#_Professional\\Lesson10\\CSharp_Professional_Lesson10\\Lesson10\\Task2\\PDFFormat.cs",
+              "RelativeToolTip": "Task2\\PDFFormat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:18:41.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\egorb\\source\\repos\\Education_CBS\\4. C#_Professional\\Lesson10\\CSharp_Professional_Lesson10\\Lesson10\\Lesson10\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson10\\Program.cs",
+              "ToolTip": "C:\\Users\\egorb\\source\\repos\\Education_CBS\\4. C#_Professional\\Lesson10\\CSharp_Professional_Lesson10\\Lesson10\\Lesson10\\Program.cs",
+              "RelativeToolTip": "Lesson10\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:05:01.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

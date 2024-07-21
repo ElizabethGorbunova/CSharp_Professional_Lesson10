@@ -1,0 +1,14 @@
+C:\Users\egorb\source\repos\Education_CBS\4. C#_Professional\Lesson10\CSharp_Professional_Lesson10\Lesson10\Task_additional\bin\Debug\net8.0\Task_additional.exe
+C:\Users\egorb\source\repos\Education_CBS\4. C#_Professional\Lesson10\CSharp_Professional_Lesson10\Lesson10\Task_additional\bin\Debug\net8.0\Task_additional.deps.json
+C:\Users\egorb\source\repos\Education_CBS\4. C#_Professional\Lesson10\CSharp_Professional_Lesson10\Lesson10\Task_additional\bin\Debug\net8.0\Task_additional.runtimeconfig.json
+C:\Users\egorb\source\repos\Education_CBS\4. C#_Professional\Lesson10\CSharp_Professional_Lesson10\Lesson10\Task_additional\bin\Debug\net8.0\Task_additional.dll
+C:\Users\egorb\source\repos\Education_CBS\4. C#_Professional\Lesson10\CSharp_Professional_Lesson10\Lesson10\Task_additional\bin\Debug\net8.0\Task_additional.pdb
+C:\Users\egorb\source\repos\Education_CBS\4. C#_Professional\Lesson10\CSharp_Professional_Lesson10\Lesson10\Task_additional\obj\Debug\net8.0\Task_additional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egorb\source\repos\Education_CBS\4. C#_Professional\Lesson10\CSharp_Professional_Lesson10\Lesson10\Task_additional\obj\Debug\net8.0\Task_additional.AssemblyInfoInputs.cache
+C:\Users\egorb\source\repos\Education_CBS\4. C#_Professional\Lesson10\CSharp_Professional_Lesson10\Lesson10\Task_additional\obj\Debug\net8.0\Task_additional.AssemblyInfo.cs
+C:\Users\egorb\source\repos\Education_CBS\4. C#_Professional\Lesson10\CSharp_Professional_Lesson10\Lesson10\Task_additional\obj\Debug\net8.0\Task_additional.csproj.CoreCompileInputs.cache
+C:\Users\egorb\source\repos\Education_CBS\4. C#_Professional\Lesson10\CSharp_Professional_Lesson10\Lesson10\Task_additional\obj\Debug\net8.0\Task_additional.dll
+C:\Users\egorb\source\repos\Education_CBS\4. C#_Professional\Lesson10\CSharp_Professional_Lesson10\Lesson10\Task_additional\obj\Debug\net8.0\refint\Task_additional.dll
+C:\Users\egorb\source\repos\Education_CBS\4. C#_Professional\Lesson10\CSharp_Professional_Lesson10\Lesson10\Task_additional\obj\Debug\net8.0\Task_additional.pdb
+C:\Users\egorb\source\repos\Education_CBS\4. C#_Professional\Lesson10\CSharp_Professional_Lesson10\Lesson10\Task_additional\obj\Debug\net8.0\Task_additional.genruntimeconfig.cache
+C:\Users\egorb\source\repos\Education_CBS\4. C#_Professional\Lesson10\CSharp_Professional_Lesson10\Lesson10\Task_additional\obj\Debug\net8.0\ref\Task_additional.dll
